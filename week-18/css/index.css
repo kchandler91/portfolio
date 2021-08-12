@@ -40,3 +40,25 @@ footer {
 
 }
 
+/* My UX Skills section coded using CSS Flex */
+.mySkills {
+    display: flex;
+}
+
+.flexContainer {
+    width: 33%;
+    margin: auto;
+    padding: auto;
+}
+
+/* My Work Section Constructed using CSS Grid */
+.myWork {
+    display: flex;
+}
+
+.workGrid {
+    display: grid;
+    width: 33%;
+    margin: auto;
+    padding: auto;
+}
